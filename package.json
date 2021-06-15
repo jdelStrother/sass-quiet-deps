@@ -1,0 +1,12 @@
+{
+  "name": "sass-quiet-deps",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "sass": "^1.35.0"
+  },
+  "dependencies": {
+    "bootstrap": "4"
+  }
+}
